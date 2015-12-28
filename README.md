@@ -3,7 +3,7 @@ A simple React App that mimics the functionality of the Twitter UI. This small a
 
 To view the app:
  - Clone this repository to your desktop: `$ git clone git@github.com:arecvlohe/SimpleReactApp.git`
- - `cd` into the project project and Install all dependencies: `$ npm install`
+ - `cd` into the project project and install all dependencies: `$ npm install`
  - Start up the server: `$ npm run dev`
  - Open up your browser and go to `localhost:3000`
  - Click inside the tweet box and have at it!
